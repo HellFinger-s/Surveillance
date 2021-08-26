@@ -10,6 +10,8 @@ The goal of the game is to drive the player's car, being no further and no close
 ### do not try to build the game from this project, when transferring to github, some important files remained on the media
 
 
+
+
 # Быстрый прототип игры Surveillance
 ### **Описание**
    Этот проект был сделан для *Романа Романова (руководителя Discovery R&D Wargaming)*.
