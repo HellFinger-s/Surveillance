@@ -6,8 +6,7 @@ The goal of the game is to drive the player's car, being no further and no close
    In developing I use:
    * Game Engine Unity
    * Programming language С#
-### [Link on demostration video](https://google.com)
-![image](https://github.com/HellFinger-s/Surveillance/blob/master/гифки-Лесли-Нильсен-перестрелка-Police-Squad_-1521420.gif)
+### [Link on demostration video](https://hellfinger-s.github.io/me/SurveillanceVideo.html)
 ### do not try to build the game from this project, when transferring to github, some important files remained on the media
 
 
@@ -21,5 +20,5 @@ The goal of the game is to drive the player's car, being no further and no close
    В разработке я использовал:
    * Игровой движок Unity
    * Язык программирования C#
-### [Ссылка на демонстрационный ролик](https://google.com)
+### [Ссылка на демонстрационный ролик](https://hellfinger-s.github.io/me/SurveillanceVideo.html)
 ### не пытайтесь собрать игру из этого проекта, при переносе в гитхаб часть важных файлов осталась на носителе
